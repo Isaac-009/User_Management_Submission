@@ -1,0 +1,23 @@
+
+
+.main__navigation{
+    display: flex;
+    background-color: rgba(128, 128, 128, 0.8);
+    color: white;
+    font-size: 20px;
+    justify-content: space-around; 
+    margin-bottom: 80px;
+}
+
+.main__navigation ul{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    
+}
+
+.nav__link{
+   margin: 0px 30px;
+   text-decoration: none;
+   color: white;
+}

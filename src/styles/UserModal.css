@@ -1,0 +1,104 @@
+.Modal__container{
+    position: relative;
+    display: flex;
+    top: 10%
+}
+
+.User__modal{
+    display:grid;  
+    background-color: rgb(207, 205, 205);
+    row-gap: 20px;
+    margin: 0 auto;
+    color: black;
+    min-width: 60%;
+}
+
+.overlay{
+background-color: rgba(27, 26, 26, .2);
+height:100%;
+position:fixed;
+top:0;
+left:0;
+width:100%;
+z-index: 20;   
+}
+
+.Modal__title{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.Modal__info{
+    text-align: left;
+    margin:0;
+}
+
+.hidden{
+    display:none;
+}
+
+.close__btn{
+    max-width: 80px;
+    background-color:white;
+    border:none;
+    font-size: 20px;
+    transition: all .3s;
+    
+}
+
+.remove__btn{
+    max-width: 150px;
+    background-color:white;
+    border:none;
+    font-size: 20px;
+    transition: all .3s;
+}
+
+.Modal__btn-flex{
+    display: flex;
+    gap:10px;
+    border: 1px solid black;
+    width:fit-content;
+    padding:5px;
+}
+
+/* Confirmation */
+
+.Confirmation__window{
+    z-index:1000;
+    position: relative;
+    margin-top:112px;
+    margin-bottom:113px;
+    max-width:300px;
+    font-size: 35px;
+    justify-self:center;
+    text-align: center;
+}
+.Confirmation__window h1{
+    margin:0;
+}
+.Confirmation__window p{
+    font-size:20px;
+    margin-left:4px;
+    margin-top:7px;
+}
+.conf__btns{
+    display: flex;
+    justify-content: space-between;
+    max-width:245px;
+}
+
+.Yes__btn{
+    font-size: 30px;
+    border: none;
+    transition: all .3s;
+}
+.No__btn{
+   font-size: 30px;
+   border:none;
+   transition: all .3s;
+}
+
+.Yes__btn:hover, .No__btn:hover, .close__btn:hover, .remove__btn:hover {
+    background-color: grey;
+}

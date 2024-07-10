@@ -1,0 +1,75 @@
+
+
+.NewUser__Form{
+    max-width:400px;
+    margin: 0 auto;
+    padding:20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.innerForm__group{
+    margin-bottom: 15px;
+}
+
+.innerForm__group label{
+    display:block;
+    margin-bottom: 5px;
+}
+
+/* This makes the * symbol red */
+.innerForm__group label bold{
+    color:red;
+}
+
+.innerForm__group input[type="text"]{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.NewUser__submit{
+    background-color: #007bff;
+    color: #fff;
+    cursor:pointer;
+    transition: backgorund-color 0.3s ease;
+}
+
+button:hover{
+    background-color: #0056b3;
+}
+
+.NewUserbtn__group{
+    display: flex;
+    justify-content: space-between; /* push the buttons to either end of the flex-box */
+    align-items: center; /* make sure the buttons are aligned vertically */
+}
+
+.NewUser__advanced {
+    color: #007bff;
+    text-decoration: none;
+    padding: 5px;
+    transition: background-color 0.3s ease;
+    border: 1px solid #ccc;
+}
+.NewUser__advanced:hover {
+    background-color: rgba(151, 145, 145,.1);
+}
+
+.no{
+    display: none;
+}
+
+.instructions{
+    background-color: rgb(204, 204, 204);
+    color: #ffffff;
+    background-color: rgba(43, 39, 39, 0.9);
+    font-size: 16px;
+    border-radius: 7px;
+    padding: 5px;
+    width:90%;
+}

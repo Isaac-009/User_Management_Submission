@@ -1,0 +1,23 @@
+.p__btn-grid{
+   display: flex;
+   justify-content: center;
+   gap: 10px;
+   margin-top: 20px;
+}
+
+.p__btn{
+    font-size: 20px;
+    background-color:  rgba(128, 128, 128, 0.8);
+    transition: all .3s;
+}
+
+.p__btn:hover{
+    background-color:  rgba(128, 128, 128, 1);
+}
+
+
+@media (min-width: 1000px){
+    .p__btn{
+        font-size: 30px;
+    }
+}

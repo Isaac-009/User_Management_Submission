@@ -1,0 +1,95 @@
+.UserView__reload-btn{
+    display:block;
+    position:center;
+}
+
+.User__Grid{
+    display: grid;
+    gap: 10px;
+    background-color: rgba(128, 128, 128, 0.8);
+
+}
+
+.User__Row{
+    border-bottom: 1px solid grey;
+    display:flex;
+    gap: 30px;
+    color: white;
+    font-size: 25px;
+    
+}
+
+.User__Item1, .User__Item2{
+    min-width: 280px;
+    min-width: 280px;
+}
+
+.User__Item1{
+    margin-left:25px;
+}
+
+.User__Item3{
+   min-width: 600px;
+   max-width: 600px;
+}
+
+.Grid__Container{
+    display: flex;
+    justify-content: center;
+}
+
+.info__svg{
+    max-width: 20px;
+    max-height: 20px;
+    position: absolute;
+    margin-left:-10px;
+    margin-top: -10px;
+    fill: black;
+}
+
+.User__btn{
+    width: 20px;
+    height: 20px;
+    border: none !important;
+    font-size: 0;
+    margin-right: 6px;
+    position: absolute;
+   
+}
+
+.User__filter{
+    display:block;
+    width: 250px;
+    margin: auto;
+    margin-top: 20px;
+    padding:10px;
+}
+
+
+@media (max-width: 640px){
+    .User__Grid{
+        max-width:400px;
+    }
+    .User__Row{
+        gap: 0px;
+        font-size: 20px; 
+    }
+    .User__Item1{
+        min-width: 100px;
+        min-width: 200px;
+    }
+
+    .User__Item2{
+        min-width:auto;
+    }
+    .User__Item3{
+        display: none;
+     }
+
+}
+
+@media (max-width:1245px){
+    .User__Item3{
+        display:none;
+    }
+}

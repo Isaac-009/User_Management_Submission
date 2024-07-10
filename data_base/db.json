@@ -1,0 +1,214 @@
+{
+  "users": [
+    {
+      "id": "929c2e77-6b6f-455e-9ab7-d3957815a9ea",
+      "username": "carrot",
+      "email": "carrot@gmail.com",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "a newish user"
+    },
+    {
+      "id": "e86ee25e-ba56-4359-9f70-c47d1ec3a933",
+      "username": "Isaac",
+      "email": "abc@gmail.com",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "a user that's representative of me!"
+    },
+    {
+      "id": "12a19b3d-08d7-47f8-85c7-df3d975de431",
+      "username": "QQQ++908@_3",
+      "email": "user@gmail.com",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "symbols"
+    },
+    {
+      "id": "ceaf3095-a98a-4dc8-b38c-1e395aa9e7bf",
+      "username": "Agrarian",
+      "email": "farmer@yahoo.com",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "24",
+      "resume_link": "https:www.NotARealLink.dem",
+      "desc": "a farmer"
+    },
+    {
+      "id": "237416a1-e675-44f4-8d13-c341778f0e69",
+      "username": "fkdsla;",
+      "email": "fe@dlkj;af",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "3",
+      "resume_link": "fdsagrwqa",
+      "desc": "fdsa"
+    },
+    {
+      "id": "176632ae-edc6-4576-884d-cb202d839672",
+      "username": ":OKSIDNKFIDS",
+      "email": "fe;2@fji",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "a"
+    },
+    {
+      "id": "171157b7-7057-4d22-acdd-ba29178deb46",
+      "username": "MoreRandomUsers",
+      "email": "ajflkei@ibje.com",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "few"
+    },
+    {
+      "id": "78a49846-a586-4f56-aa16-0010b04f856f",
+      "username": "bae",
+      "email": "a!ie@i",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "safds"
+    },
+    {
+      "id": "38aad140-9387-4a56-97e7-a31bda08fe5b",
+      "username": "fds",
+      "email": "g@fa",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "gewd"
+    },
+    {
+      "id": "760ef86c-bb3e-4dcc-a307-b6c563fbafcd",
+      "username": "UNDIS",
+      "email": "feil@filc",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "abndisc"
+    },
+    {
+      "id": "75170896-1f02-4534-b45e-a13e83be0cf6",
+      "username": "NMIWl",
+      "email": "fe@ie.org",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "ascegd"
+    },
+    {
+      "id": "d3b6e9ea-a2e8-4bbe-9842-2334c8d81305",
+      "username": "ahniuejh",
+      "email": "Audsnli@gmial.com",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "aebgcd"
+    },
+    {
+      "id": "f4a822f8-3903-4f3c-b21e-3b761229471c",
+      "username": "saegtewvcx",
+      "email": "rioert@jfienc",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "acdeesdc"
+    },
+    {
+      "id": "b58be58c-9657-474a-93d2-9e7af7b45295",
+      "username": "dseidcnsicksldinbvie",
+      "email": "aiend@fienb",
+      "role": "user",
+      "registration_date": "Mon Jul 08 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "cool description"
+    },
+    {
+      "id": "857b9f74-6444-414b-a4f6-e5cbe021fac7",
+      "username": "LongDesc",
+      "email": "desc@desc.com",
+      "role": "user",
+      "registration_date": "Wed Jul 10 2024",
+      "age": "32",
+      "resume_link": "http:/random",
+      "desc": "aaaaaaaaaa aaaaaaaaaaaaaa aa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaa aaaaa aaaaaaaaaa aaa a a aaa aa aaaaa aaaaaaaaaaaaaa aaaaaaaaa aaaaaaaaaaaa aaaaaaaaaa aaaaaaaaaaaaaaaaaa aaaaa aaa"
+    },
+    {
+      "id": "33306823-61bb-4833-995e-436cde488186",
+      "username": "Isaac",
+      "email": "fdsa@jfklsd",
+      "role": "user",
+      "registration_date": "Wed Jul 10 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "fsda"
+    },
+    {
+      "id": "3a639fef-119f-41b0-96f4-b232b8e79c64",
+      "username": "fsdaetgwag",
+      "email": "few;ldfsie@fsda",
+      "role": "user",
+      "registration_date": "Wed Jul 10 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "gweytwete"
+    },
+    {
+      "id": "d06fb2cf-233f-43d1-b17d-37639c8c6e75",
+      "username": "aaaaaaaaaaaaaaaaaaaaaaaaa",
+      "email": "sad@f",
+      "role": "user",
+      "registration_date": "Wed Jul 10 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "sdae"
+    },
+    {
+      "id": "c8394f6e-5d15-451f-a227-cba8f6b80590",
+      "username": "theDateIs",
+      "email": "fdsa@fdsa",
+      "role": "user",
+      "registration_date": "Wed Jul 10 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "fewat"
+    },
+    {
+      "id": "45e8ac0a-02c7-4f30-84ec-b8ebb097634e",
+      "username": "fsda",
+      "email": "fewsd@",
+      "role": "user",
+      "registration_date": "Wed Jul 10 2024",
+      "age": "0",
+      "resume_link": "NA",
+      "desc": "fdsa"
+    },
+    {
+      "id": "c54b8d7b-e167-4c4c-b313-202116a28cee",
+      "username": "A random User",
+      "email": "random@gmail.com",
+      "role": "user",
+      "registration_date": "Wed Jul 10 2024",
+      "age": "64",
+      "resume_link": "https://random//link/cool.com",
+      "desc": "a cool description about a random user"
+    }
+  ]
+}

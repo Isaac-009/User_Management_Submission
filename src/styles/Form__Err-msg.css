@@ -1,0 +1,38 @@
+.Form__Err-msg{
+    display: block;
+    width: 400px; 
+    margin:auto;
+    background-color: rgba(160, 39, 39, 0.479);
+    border: 2px solid rgba(99, 8, 8, 0.315);
+    margin-top: 10px;
+    animation: fade-out 4080ms;
+}
+
+.Form__Err-msg h1{
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+
+.Form__Err-msg p{
+    text-align: center;
+    font-size:25px;
+    font-weight:700;
+}
+
+
+@keyframes fade-out {
+    0% {
+        opacity:0
+    }
+    30%{
+        opacity:1
+    }
+    80%{
+        opacity:1
+    }
+
+    100%{
+        opacity:0
+    }
+}

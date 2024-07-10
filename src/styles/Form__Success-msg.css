@@ -1,0 +1,17 @@
+.Form__Success-msg{
+    display: block;
+    width: 400px; 
+    margin:auto;
+    background-color: rgba(59, 160, 39, 0.479);
+    border: 2px solid rgba(23, 99, 8, 0.315);
+    margin-top: 10px;
+    animation: fade-out 4080ms;
+}
+
+
+
+.Form__Success-msg p{
+    text-align: center;
+font-size:25px;
+font-weight:700;
+}
